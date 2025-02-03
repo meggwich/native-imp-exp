@@ -1,0 +1,24 @@
+{
+  "name": "native-imp-exp",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/meggwich/native-imp-exp#readme",
+  "bugs": {
+    "url": "https://github.com/meggwich/native-imp-exp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meggwich/native-imp-exp.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server ./src"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
